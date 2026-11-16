@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+*.mp4
+*.m4s
+*.mp3
+*.flv
+*.part
+
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
